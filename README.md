@@ -6,8 +6,8 @@ Ingeniva Invoice V3.0 is user-friendly, simple yet efficient and fast invoicing 
   3. Javascript
   4. Bootstrap 4.4
 
-![alt text](https://ingeniva.co.in/assets/img/invoice/pic2.png)
-Dashboard View
+<div align="center">![alt text](https://ingeniva.co.in/assets/img/invoice/pic2.png)</div>
+<div align="center">Dashboard View</div>
 
 Features:
   1. Minimum chances of data leakage
@@ -19,11 +19,11 @@ Features:
   7. Fast Performance
   8. Scalability
   
-![alt text](https://ingeniva.co.in/assets/img/invoice/pic1.png)
-Invoice Listing View
+<div align="center">![alt text](https://ingeniva.co.in/assets/img/invoice/pic1.png)</div>
+<div align="center">Invoice Listing View</div>
 
-![alt text](https://ingeniva.co.in/assets/img/invoice/0001.jpg)
-Invoice Template
+<div align="center">![alt text](https://ingeniva.co.in/assets/img/invoice/0001.jpg)</div>
+<div align="center">Invoice Template</div>
 
 Installation Guidelines:
 Coming Soon!
