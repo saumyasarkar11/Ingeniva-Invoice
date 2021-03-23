@@ -19,7 +19,7 @@ Ingeniva Invoice V3.0 is user-friendly, simple yet efficient and fast invoicing 
   7. Fast Performance<br>
   8. Scalability<br><br>
   
-<div align="center"><img style="border:4px;" src="https://ingeniva.co.in/assets/img/invoice/pic1.png" height="300px"></div>
+<div align="center"><img src="https://ingeniva.co.in/assets/img/invoice/pic1.png" height="300px"></div>
 <div align="center">Invoice Listing View</div>
 
 <!--<div align="center"><img src="https://ingeniva.co.in/assets/img/invoice/0001.jpg" height="300px"></div>
