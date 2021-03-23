@@ -6,6 +6,6 @@ Ingeniva Invoice V3.0 is user-friendly, simple yet efficient and fast invoicing 
   3. Javascript
   4. Bootstrap 4.4
 
-https://ingeniva.co.in/assets/img/invoice/pic2.png
+![alt text](https://ingeniva.co.in/assets/img/invoice/pic2.png)
 
   
