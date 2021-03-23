@@ -17,7 +17,7 @@ Ingeniva Invoice V3.0 is user-friendly, simple yet efficient and fast invoicing 
   5. Cross Platform Compatibility<br>
   6. Simple development and deployment<br>
   7. Fast Performance<br>
-  8. Scalability<br>
+  8. Scalability<br><br>
   
 <div align="center"><img style="border:1px solid black;" src="https://ingeniva.co.in/assets/img/invoice/pic1.png" height="300px"></div>
 <div align="center">Invoice Listing View</div>
