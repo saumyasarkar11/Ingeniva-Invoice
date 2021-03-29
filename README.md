@@ -1,5 +1,5 @@
 # Ingeniva Invoice
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saumyasarkar11&repo=Ingeniva-Invoice)](https://github.com/saumyasarkar11/Ingeniva-Invoice)
 Ingeniva Invoice V3.0 is user-friendly, simple yet efficient and fast invoicing application particularly suited for product based and service based industries in India. Create invoices within minutes which usually takes you 15 to 20 minutes manually. Why use third party application when you can have your own invoicing application at an extremely low operating cost. Technologies used:
   1. PHP 7.4
   2. MySQL
