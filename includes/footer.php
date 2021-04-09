@@ -49,7 +49,7 @@
              <select name="code" class="form-control" required>
              <option value="" hidden>Choose here...</option>
              <?php
-             $sql=mysqli_query($con, "SELECT * FROM statecode ORDER BY name ASC");
+             $sql=mysqli_query($con, "SELECT * FROM statecode WHERE user_id='$id' ORDER BY name ASC");
              while($row=mysqli_fetch_assoc($sql)){
              ?>
              <option value="<?php echo $row['state_id']; ?>"><?php echo ucfirst(strtolower($row['name'])); ?></option>
