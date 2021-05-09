@@ -24,11 +24,11 @@ Ingeniva Invoice is an user-friendly, simple yet efficient and fast invoicing ap
 <div align="center">Invoice Template</div>-->
 <br>
 <h3>Usage Guidelines</h3>
-1. Clone the repository in your local system or web server. Upload the sql file to create the database.
-2. Login using abc@abc.com and abc123 as password. Don't forget to change that later. Do upload your server smtp credentials to make the forgot password system        work. It won't work if you're using your localserver.
-3. Add your company info, bank account information, brand logo, signature and state codes to get done with the basic profile completion.
+1. Clone the repository in your local system or web server. Upload the sql file to create the database.<br>
+2. Login using abc@abc.com and abc123 as password. Don't forget to change that later. Do upload your server smtp credentials to make the forgot password system        work. It won't work if you're using your localserver.<br>
+3. Add your company info, bank account information, brand logo, signature and state codes to get done with the basic profile completion.<br>
 
-<div align="center">![pic2 (1)](https://user-images.githubusercontent.com/76894046/117561113-798e4900-b0b1-11eb-8531-366244356599.jpg)</div>
+<div align="center"><img src="https://user-images.githubusercontent.com/76894046/117561113-798e4900-b0b1-11eb-8531-366244356599.jpg" alt="Ingeniva  Invoice dashboard essentials"></div><br>
 
 4. Add your products/services and clients to start creating invoices. Note that you must add required state codes before adding clients. Bang! you're ready to go...
 <br>
