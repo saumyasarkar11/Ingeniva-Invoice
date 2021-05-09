@@ -34,4 +34,4 @@ Ingeniva Invoice is an user-friendly, simple yet efficient and fast invoicing ap
 <br><br>
 <div align="center"><img src="https://user-images.githubusercontent.com/76894046/117561289-2cab7200-b0b3-11eb-8adc-27165e5d63dc.jpg" height="300px" alt="Ingeniva  Invoice dashboard essentials2"></div><br><br>
 
-<h4 align="center">You are now absolutely ready to create invoices! Hope you have a great experience using Ingeniva Invoice :smiley::smiley:</h4>
+<h3 align="center">You are now absolutely ready to create invoices! Hope you have a great experience using Ingeniva Invoice :smiley::smiley:</h3>
