@@ -28,7 +28,10 @@ Ingeniva Invoice is an user-friendly, simple yet efficient and fast invoicing ap
 2. Login using abc@abc.com and abc123 as password. Don't forget to change that later. Do upload your server smtp credentials to make the forgot password system        work. It won't work if you're using your localserver.<br><br>
 3. Add your company info, bank account information, brand logo, signature and state codes to get done with the basic profile completion.<br><br>
 
-<div align="center"><img style="1px solid grey" src="https://user-images.githubusercontent.com/76894046/117561113-798e4900-b0b1-11eb-8531-366244356599.jpg" height="300px" alt="Ingeniva  Invoice dashboard essentials"></div><br><br>
+<div align="center"><img src="https://user-images.githubusercontent.com/76894046/117561113-798e4900-b0b1-11eb-8531-366244356599.jpg" height="300px" alt="Ingeniva  Invoice dashboard essentials"></div><br><br>
 
-4. Add your products/services and clients to start creating invoices. Note that you must add required state codes before adding clients. Bang! you're ready to go...
-<br>
+4. Add your products/services and clients to start creating invoices. Note that you must add required state codes before adding clients.
+<br><br>
+<div align="center"><img src="https://user-images.githubusercontent.com/76894046/117561289-2cab7200-b0b3-11eb-8adc-27165e5d63dc.jpg" height="300px" alt="Ingeniva  Invoice dashboard essentials2"></div><br><br>
+
+<h4>Bang! We are ready to go now! Hope you have a great experience using Ingeniva Invoice :smiley::smiley:</h4>
